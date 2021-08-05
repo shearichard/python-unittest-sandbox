@@ -5,7 +5,7 @@ Tested against Python 3.7 on Ubuntu 20.x
 
 ## Environmental Concerns
 
-This project makes use of [Pipenv](https://pipenv.pypa.io/en/latest/) although as it doesn't use any module outside of this project and the python standard library you should be able to make use of anywhere where python 3.x is found. 
+This project makes use of [Pipenv](https://pipenv.pypa.io/en/latest/) although as it doesn't use any module outside of this project and the python standard library you should be able to make use of it anywhere where python 3.x is found. 
 
 ## Invoking tests
 
