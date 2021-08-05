@@ -3,12 +3,20 @@ import unittest
 from name_formatter import formatted_name
 
 def setUpModule():
-    print( "setUpModule: " + __name__ + " set up")
-    print("")
+    '''
+    Run once each time the module is used.
+
+    __name__ provides an identifier
+    '''
+    pass
 
 def tearDownModule():
-    print( "setUpModule: " + __name__ + " tear down")
-    print("")
+    '''
+    Run once each time the module is used.
+
+    __name__ provides an identifier
+    '''
+    pass
 
 
 class TestCase_NameFormatting(unittest.TestCase):
