@@ -47,8 +47,12 @@ setUpModule: __main__ tear down A
 Ran 2 tests in 0.013s
 
 OK
+```
 
-A more realistic illustration of how tests are structured exists in `module.py` and may be invoked as follows.
+
+### module
+
+A more real-world illustration of how tests are structured exists in `module.py` and may be invoked as follows.
 
 ```
 python -m module
