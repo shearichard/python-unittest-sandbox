@@ -5,7 +5,7 @@ a module intended to make use of unittest tests.
 
 The expected output of the following ... 
 
-(python-unittest-sandbox) rshea@mayari:~/src/python-unittest-sandbox/pyunsa$ python -m  module_framework_illustration
+(python-unittest-sandbox) rshea@foorbar:~/src/python-unittest-sandbox/pyunsa$ python -m  module_framework_illustration
 setUpModule: __main__ set up A
 
     setUpClass: TestCase1 set up B
