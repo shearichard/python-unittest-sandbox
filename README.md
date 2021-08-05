@@ -13,7 +13,9 @@ There are two modules of interest.
 
 ### module_framework_illustrator
 
-`module_framework_illustrator`, outputs text to illustrate the order in which different elements of a unittest based module execute. This may be invoked as follows.
+`module_framework_illustrator`, outputs text to illustrate the order in which different elements of a unittest based module execute. This module is significantly based on a blog post I found but cannot now re-find so I'm sorry I can't credit the author but I am grateful. If you'd like to get in touch I will be happy to provide a credit - just raise an issue on this repository.
+
+This module may be invoked as follows.
 ```
 python -m module_framework_illustrator
 ```
